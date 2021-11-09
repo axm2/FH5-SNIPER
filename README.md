@@ -1,5 +1,5 @@
 # FH5-SNIPER
-FH5 Auction House Sniper
+Forza Horizon 5 Auction House Sniper
 
 Should work on all 16:9 resolutions
 
