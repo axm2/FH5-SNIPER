@@ -51,7 +51,7 @@ q:: ; q hotkey.
 
         Loop, 6
         {
-            Send {Y}
+            Send {y}
             Sleep, 30
             Send {Up}
             Sleep, 30 ; 35
